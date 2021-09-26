@@ -1,1 +1,1 @@
-web: npm start --server --autoread 
+web: node . --server
