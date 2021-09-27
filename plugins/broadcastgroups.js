@@ -13,8 +13,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./src/IMG-20210917-WA0002.jpg'), //Gambarnye
 					},
-					"title": `BROADCAST`, //Kasih namalu 
-					"description": `Rp 50.000`, 
+					"title": `🇧 🇨  🇬 🇨 `, //Kasih namalu 
+					"description": `[ 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐆𝐑𝐎𝐔𝐏 ]`, 
 					"currencyCode": "Rp",
 					"priceAmount1000": "500000",
 					"retailerId": `ppk`,
@@ -37,7 +37,7 @@ mediaUrl: 'https://youtu.be/ppt6ZIW20ig',
 mediaType: 2,
 title: '',
 body: '[ 𝐀𝐑𝐈𝐀 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 ]',
-thumbnailUrl: 'https://telegra.ph/file/efd304268e9b183c9f8a3.jpg'
+thumbnailUrl: 'https://raw.githubusercontent.com/iniariaaa/botwea/master/Screenshot%20(9).png'
 }}})
   }
   m.reply('_*Broadcast Selesai*_')
