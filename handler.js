@@ -38,7 +38,7 @@ module.exports = {
             if (!isNumber(user.tigame)) user.tigame = 10
             if (!isNumber(user.lastclaim)) user.lastclaim = 0
             if (!isNumber(user.money)) user.money = 0
-            
+            if (!('pasangan' in user)) user.pasangan = ''
             if (!isNumber(user.diamond)) user.diamond = 0
             if (!isNumber(user.iron)) user.iron = 0
             if (!isNumber(user.as)) user.as = 0
@@ -159,6 +159,7 @@ module.exports = {
     udang: 0,
     ikan: 0,
     nabungexp: 0,
+    pasangan: '',
     nabunglimit: 0,
     nabungmoney: 0,
     orca: 0,
